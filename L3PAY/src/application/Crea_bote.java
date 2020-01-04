@@ -22,5 +22,5 @@ public class Crea_bote {
 		Stage stage = (Stage) cancelar_pot.getScene().getWindow();
 		stage.close();
 	}
-	
+	 
 }
