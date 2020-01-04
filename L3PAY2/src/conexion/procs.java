@@ -17,6 +17,7 @@ public class procs {
 			entrada.setString(6,email);
 			entrada.setString(7,fechaNacimiento);
 			entrada.setString(8,password);
+			
 			entrada.execute();
 			
 			

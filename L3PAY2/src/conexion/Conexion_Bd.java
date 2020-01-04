@@ -18,7 +18,6 @@ public class Conexion_Bd {
 		}catch (Exception e) {
 			
 			cn=null;
-			
 		}
 		
 		return cn;
